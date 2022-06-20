@@ -38,7 +38,7 @@
             "metadata": {
                 "description": "The location of resources, such as templates and DSC modules, that the template depends on"
             },
-            "defaultValue": "https://raw.githubusercontent.com/nilesh-jy03/azure-quickstart-ADDS-templates/edit/master/application-workloads/active-directory/active-directory-new-domain/"
+            "defaultValue": "https://raw.githubusercontent.com/nilesh-jy03/azure-quickstart-ADDS-templates/blob/master/application-workloads/active-directory/active-directory-new-domain/"
         },
         "_artifactsLocationSasToken": {
             "type": "securestring",
