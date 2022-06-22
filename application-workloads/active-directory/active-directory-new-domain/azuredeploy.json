@@ -302,7 +302,7 @@
                         "publisher": "MicrosoftWindowsServer",
                         "offer": "WindowsServer",
                         "sku": "2016-Datacenter",
-                        "version": "latest"
+                        "version": "17763.3132.220610"
                     },
                     "osDisk": {
                         "name": "[concat(parameters('virtualMachineName'),'_OSDisk')]",
