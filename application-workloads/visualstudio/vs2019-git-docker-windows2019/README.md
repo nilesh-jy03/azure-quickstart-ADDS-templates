@@ -10,7 +10,7 @@
 
 ![Cred Scan Check](https://azurequickstartsservice.blob.core.windows.net/badges/application-workloads/visualstudio/vs2019-git-docker-windows2019/CredScanResult.svg)
 
-[![Deploy To Azure]()](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnilesh-jy03%2Fazure-quickstart-ADDS-templates%2Fmaster%2Fapplication-workloads%2Fvisualstudio%2Fvs2019-git-docker-windows2019%2Fazuredeploy.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnilesh-jy03%2Fazure-quickstart-ADDS-templates%2Fmaster%2Fapplication-workloads%2Fvisualstudio%2Fvs2019-git-docker-windows2019%2Fazuredeploy.json)
 
 
 
